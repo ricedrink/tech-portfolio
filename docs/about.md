@@ -5,7 +5,7 @@ title: About
 
 Hello there! My name is Alice Zhang and I am an undergraduate researcher at Socio-Technical Interaction Research Lab currently pursuing my B.S in Computer Science. I am set to graduate May, 2023.
 
-# My recent experience 
+## My recent experience 
 Citi Early ID Technology Apprenticeship @ Citi 
 Jan 2021 – Present
 - Selected out of 2000 candidates for Citi's Global Consumer Technology Track
@@ -25,9 +25,8 @@ May 2020 – Aug 2020
 Mobile Dev Scholar @ Kode With Klossy
 - Awarded scholarship for all-girls coding camp to learn about women in tech and iOS mobile development with Swift.
 
-## Organizations I'm involved with
+Organizations I'm involved with:
 Mobile Dev Director @ Association for Computing Machinery
-
 Member @ Delta Phi Lambda Sorority
 
 ## Hobbies
@@ -37,6 +36,6 @@ Learning new recipies
 Weightlifting
 
 
-## Awards
+Awards
 
 - Florida Bright Futures Scholarship
