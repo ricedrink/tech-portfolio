@@ -74,7 +74,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: 'https://www.linkedin.com/in/alice-margo-zhang/',
         github: 'https://github.com/ricedrink',
-        twitter: 'https://twitter.com',
+        //twitter: 'https://twitter.com',
         //facebook: 'https://www.facebook.com/',
         instagram: 'https://www.instagram.com/ricedrink/',
         //youtube: 'https://www.youtube.com/',
