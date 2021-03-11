@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Alice Zhang', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Software Developer with an interest in design.',
     profilePhoto: 'img/profile.png',
     url: 'https://ricedrink.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -72,7 +72,7 @@ const siteConfig = {
     If you want to remove a social media icon, you can add the two // before the line
     or delete the line. */
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/alice-zhang-827446189/',
+        linkedin: 'https://www.linkedin.com/in/alice-margo-zhang/',
         github: 'https://github.com/ricedrink',
         twitter: 'https://twitter.com',
         //facebook: 'https://www.facebook.com/',
