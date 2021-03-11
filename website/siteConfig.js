@@ -43,8 +43,8 @@ const siteConfig = {
 
     /* Colors for website */
     colors: {
-        primaryColor: '#55555',
-        secondaryColor: '#55555',
+        primaryColor: '#FFFFFF',
+        secondaryColor: '#555555',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
