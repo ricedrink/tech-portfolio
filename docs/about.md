@@ -3,24 +3,40 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+Hello there! My name is Alice Zhang and I am an undergraduate researcher at Socio-Technical Interaction Research Lab currently pursuing my B.S in Computer Science. I am set to graduate May, 2023.
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+# My recent experience 
+Citi Early ID Technology Apprenticeship @ Citi 
+Jan 2021 – Present
+- Selected out of 2000 candidates for Citi's Global Consumer Technology Track
+- Received technical training on cloud platforms, data analytics, artificial intelligence, machine learning, and problem solving strategies.
 
-Write it in first (I) or third (Your Name Here) person.
+Undergraduate Researcher @ UCF College of Engineering & Computer Science Part-time
+Jun 2020 – Present
+- Maintaining and refining survey to enhance user experience
+- Creation of research design materials using Figma that allowed teens to co-design features for online safety
+- Analyzed mobile prototypes to identify to see the effectiveness and opportunities for improving interactions with the target audience
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Instructor Assistant @ Kode With Klossy
+May 2020 – Aug 2020
+- Supported instructors in leading 2 two-week, virtual intensives teaching iOS Development and prototyping to 20 high school girls.
+- Empowered girls to become leaders in tech by addressing social issues surrounding the gender gap in STEM.
 
-## Current Role
+Mobile Dev Scholar @ Kode With Klossy
+- Awarded scholarship for all-girls coding camp to learn about women in tech and iOS mobile development with Swift.
 
-Grace Hopper Celebration Attendee
+## Organizations I'm involved with
+Mobile Dev Director @ Association for Computing Machinery
 
-## Recognition
+Member @ Delta Phi Lambda Sorority
 
-- 2020 Awesome Woman in Technology Award
+## Hobbies
+Coding on my Mac
+Hackathons with friends
+Learning new recipies
+Weightlifting
+
+
+## Awards
+
+- Florida Bright Futures Scholarship
