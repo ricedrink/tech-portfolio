@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-My personal projects 
+Hackathon Projects
 
 TaskMe
 Your go-to web application for volunteering immediately after unexpected emergencies and natural disasters
