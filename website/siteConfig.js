@@ -12,8 +12,8 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Alice Zhang', // Title for your website.
-    tagline: 'Software Developer with an interest in design.',
+    title: 'Alice Margo Zhang', // Title for your website.
+    tagline: 'Problem Solving through Design and Code',
     profilePhoto: 'img/profile.png',
     url: 'https://ricedrink.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
